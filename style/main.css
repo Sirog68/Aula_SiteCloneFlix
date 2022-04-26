@@ -24,7 +24,7 @@ header .container{
 
 header .logo{
     color: var(--vermelho);
-    font-family: "Arial Black", Times;
+    font-family: "Helvetica,Arial, sans-serif";
     font-size: 40px;
     margin-left: 5px;
 }
@@ -102,4 +102,16 @@ header nav a{
 
 .carrosel-filmes{
     margin-top: 5px;
+}
+.ordem{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 7px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.descr{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-top: 10px;
 }
